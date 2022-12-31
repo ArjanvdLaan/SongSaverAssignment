@@ -1,0 +1,35 @@
+header {
+    display: flex;   
+    justify-content: center;
+    background-color: #2F556B
+}
+
+.header {
+    width: 250px;
+    height: 250px;
+    font-size: 50px;
+    color: #452F6B;
+    font-weight: 800;
+    margin: 2vh;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    text-align: center;
+    display: flex;
+    border: 10px solid darkolivegreen;
+    background-color: white
+    
+}
+
+tr {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px; 
+    background-color: #2F556B;
+}
+
+th {
+    width: 20%;
+    color: white;
+    font-size: 25px;
+}
